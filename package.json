@@ -118,7 +118,7 @@
     "puppeteer": "^1.2.0",
     "rimraf": "^2.6.1",
     "sass-loader": "^7.0.1",
-    "shelljs": "^0.7.6",
+    "shelljs": "^0.8.5",
     "sinon": "^2.1.0",
     "sinon-chai": "^2.8.0",
     "url-loader": "^1.0.1",
